@@ -1,5 +1,7 @@
 # Smart Bot
 
+Smart Bot is a simple web-based chatbot implemented using minimal NLP, nothing more than that.
+
 ```
     Copyright 2019 Andrew Cen
 
